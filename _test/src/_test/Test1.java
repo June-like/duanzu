@@ -2,6 +2,7 @@ package _test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		String a ="哈哈哈哈哈~";
+		int a = 10;
+		String b ="哈哈哈哈哈~";
 	}
 }
