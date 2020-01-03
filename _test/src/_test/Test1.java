@@ -6,6 +6,6 @@ public class Test1 {
 		String b ="哈哈哈哈哈~";
 		System.out.println(b+"嗝~");
 		System.out.println(a+"qweasf");
-		
+		int c =1000;
 	}
 }
